@@ -92,6 +92,6 @@ jupyter notebook
 ## 📢 Contributions & Support
 Contributions, suggestions, and improvements are welcome! Feel free to submit a **pull request** or open an **issue**.
 
-📩 For any queries, contact: **[Your Email / University Contact]**
+📩 For any queries, contact: **dhirajkumar.singh@ul.ie, khan.talhat@ul.ie, sarmad.ali@lero.ie**
 
 Happy coding! 🚀

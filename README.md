@@ -73,8 +73,8 @@ To start working with the notebooks in this repository, follow these steps:
 
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/CS6502-Spring25.git
+cd CS6502-Spring25
 ```
 
 2️⃣ Install dependencies: requirement.txt will be updated regularly depeding on the course content
